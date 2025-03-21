@@ -7,8 +7,7 @@
  ### SKILLS
  
 Python, R, SQL, Power BI, MS Excel, Data Visualization, Data Preprocessing, Data Visualization, Machine Learning, Deep Learning, NLP, Time Series Analysis, Statistics, Probability, RAG, LLM 
-
-###EXPERIENCE
+### EXPERIENCE
     Data Science Intern | CANSPIRIT AI                                                                                                                       Jan’24 – July’24  
 •Extracted and processed large datasets of over 5,000 car listings from a leading car sales platform, utilizing Python and libraries such as BeautifulSoup, Scrapy and other tools to automate data collection and ensure efficiency in web scraping workflows.
 • Designed an intelligent chatbot leveraging Retrieval-Augmented Generation (RAG) and the GEMINI API, significantly enhancing query resolution capabilities.                                                                                 [                              
@@ -33,8 +32,7 @@ Tableau Dashboard: British Airways Review Analysis
 •	Developed an interactive Tableau dashboard to analyze British Airways customer reviews, incorporating filters, time-series analysis, and geographic visualizations.
 •	Visualized key metrics like cabin staff service, entertainment, and seat comfort, enabling data-driven insights into customer satisfaction trends.
 
-
-###CERTIFICATIONS
+### CERTIFICATIONS
 Big Data Certification – Coursera
 Statistics & Mathematics for Data Science – Udemy
 Python & SQL Certifications – HackerRank
