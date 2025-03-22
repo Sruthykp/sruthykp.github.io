@@ -3,10 +3,12 @@
   Symbiosis Institute of Geoinformatics (CGPA: 7.02/10)                                                                                             Aug'23 - July '25
    MSc. Data Science
                                                                                                                                                                                                
-   St. Xaviers College, Mumbai (CGPA: 8.06/10)                                                                                                     May’20 – June’23
+   St. Xaviers College, Mumbai (CGPA: 8.06/10)                                                                                                        May’20 – June’23
+
+
  ### SKILLS
- 
-Python, R, SQL, Power BI, MS Excel, Data Visualization, Data Preprocessing, Data Visualization, Machine Learning, Deep Learning, NLP, Time Series Analysis, Statistics, Probability, RAG, LLM 
+ Python, R, SQL, Power BI, MS Excel, Data Visualization, Data Preprocessing, Data Visualization, Machine Learning, Deep Learning, NLP, Time Series Analysis, Statistics, Probability, RAG, LLM 
+
 ### EXPERIENCE
     Data Science Intern | CANSPIRIT AI                                                                                                                       Jan’24 – July’24  
 •Extracted and processed large datasets of over 5,000 car listings from a leading car sales platform, utilizing Python and libraries such as BeautifulSoup, Scrapy and other tools to automate data collection and ensure efficiency in web scraping workflows.
